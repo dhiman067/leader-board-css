@@ -180,7 +180,7 @@ height: 104px;
 
     @media only screen and (max-width:688px) {
         .nav{
-            height: 500px;
+            height: 450px;
             width: 100%;
             margin-left: 10px;
             margin-top: 20px;
@@ -194,7 +194,16 @@ height: 104px;
             flex-direction: column;
         }
         .nav-tittle{
-            margin-left: 400px;
+            margin-left: 410px;
+            margin-bottom: 20px;
+
+            
+        }
+        .nav-tittle i{
+            margin-left: -30px;
+        }
+        li img{
+            margin-left: -2px;
         }
 
 
